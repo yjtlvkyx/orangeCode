@@ -1,0 +1,22 @@
+{
+  "name": "orangeCode",
+  "version": "1.0.0",
+  "description": "orangeLove的代码管理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjtlvkyx/orangeCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjtlvkyx/orangeCode/issues"
+  },
+  "homepage": "https://github.com/yjtlvkyx/orangeCode#readme"
+}
